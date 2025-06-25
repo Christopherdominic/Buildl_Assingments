@@ -1,0 +1,1 @@
+echo -n "Christopher" | sha256sumecho -n "Christopher" | sha256sum
